@@ -151,5 +151,5 @@ Ensures all tickets must contain:
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **student-developer Vikram**  
-GitHub: [@your-username](https://github.com/your-username)
+Made with ❤️ by **Vikram**  
+GitHub: [Vikram](https://github.com/vikram043)
